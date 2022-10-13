@@ -56,7 +56,7 @@ global.doc6 = 'application/vnd.android.package-archive'
 //owmner v card
 global.vcardowner = ['94743620791'] //ur owner number
 global.ownername = "Nimsara Rasanjana" //ur owner name
-global.ytname = "" //ur yt chanel name
+global.ytname = "https://youtube.com/channel/UCXpYoBO0Jcx3rQ65C1a85Jg" //ur yt chanel name
 global.socialm = "GitHub: Nipuna-apps" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
@@ -64,16 +64,16 @@ global.location = "India, Mizoram, Aizawl" //ur location
 global.owner = ['94743620791'] //ur number 
 global.ownertag = '94743620791' //ur tag number
 global.botname = '📶 NIMSARAMD 📶' //ur bot name
-global.linkz = "https://youtu.be/3J9-8U8St3U" //your theme url which will be displayed on whatsapp
-global.websitex = "https://youtu.be/3J9-8U8St3U" //ur website to be displayed
-global.botscript = 'https://github.com/Nipuna-apps/Blue-Lione-Bot' //script link
+global.linkz = "https://chat.whatsapp.com/LU2n2L0x0HlD2IOLoJQeiX" //your theme url which will be displayed on whatsapp
+global.websitex = "https://chat.whatsapp.com/LU2n2L0x0HlD2IOLoJQeiX" //ur website to be displayed
+global.botscript = 'https://github.com/nimsaramd1/Nimsara-md-Bot-1' //script link
 global.reactmoji = "🚀" //ur menu react emoji
 global.themeemoji = "🚀" //ur theme emoji
 global.packname = "📶 sticker 📶" //ur sticker watermark packname
 global.author = "📶 Md 📶" //ur sticker watermark author
 global.menumoji ="💖"
-global.menuimg = "https://i.ibb.co/0mDLtyr/f2337149532299-58b7611d91faf.jpg" //ur alive img link [https://i.ibb.co]
-global.alive = "https://raw.githubusercontent.com/Nipuna-apps/Blue-Lion-Bot-V2/main/LioneMedia/video/Lione-bot.mp4" //ur alive video or image link [github.com]
+global.menuimg = "https://telegra.ph/file/9a2ca963ecbd5ed47886c.jpg" //ur alive img link [https://i.ibb.co]
+global.alive = "https://a.uguu.se/ZVODjCNH.mp3'" //ur alive video or image link [github.com]
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 global.log0 = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur logo pic
@@ -82,7 +82,7 @@ global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 
 //damtabase
 global.premium = ['94743620791'] //ur premium numbers
-global.ntilinkytvid = []
+global.ntilinkytvid  []
 global.ntilinkytch = []
 global.ntilinkig = []
 global.ntilinkfb = []
@@ -107,14 +107,14 @@ global.antitags = true
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    success: 'Done ✓',
+    success: 'Done ✅',
     admin: 'This Feature Is Only For Admin!',
     botAdmin: 'Bot Must Be Admin First!',
     owner: 'This Feature Is Only For Owner!',
     group: 'Feature Used Only For Groups!',
     private: 'Features Used Only For Private Chat!',
     bot: 'This Feature Is Only For Bot',
-    wait: 'In process...',
+    wait: 'In process...🚀🚀🚀',
     linkm: 'Where is the link?',
     error: 'Error!!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
